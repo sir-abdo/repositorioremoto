@@ -6,5 +6,4 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 10.0.3.20 intern
-nova linha
 10.0.3.15 debian9
